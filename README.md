@@ -1,0 +1,2 @@
+# examenTecnico
+java tecnico
